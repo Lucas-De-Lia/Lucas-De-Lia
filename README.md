@@ -18,6 +18,10 @@
 
 - :school: I am a Systems engineering student, currently halfway through my degree.
 - :technologist: **Currently working on** `FullStack Development`
+- - 📫 Reach out to me at: <a href="lucasdelia018@gmail.com">lucasdelia018@gmail.com</a>
+- - 🌱 I’m currently learning ...
+  - Java
+  - React js
 
 
 <br>
