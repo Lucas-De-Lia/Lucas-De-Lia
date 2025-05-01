@@ -18,7 +18,8 @@
 
 - :school: I am a Systems engineering student, currently halfway through my degree.
 - :technologist: **Currently working on** `FullStack Development`
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elio%20Chiu-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-usuario-linkedin/)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=ElioChiu&color=EA4335&style=flat-square)](mailto:eliochiu2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elio%20Chiu-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-de-lia-a0ab51303/)
 
 <br>
 
