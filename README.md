@@ -18,8 +18,7 @@
 
 - :school: I am a Systems engineering student, currently halfway through my degree.
 - :technologist: **Currently working on** `FullStack Development`
-- :email: Feel free to **reach me out**
-[![LinkedIn]](https://www.linkedin.com/in/lucas-de-lia-a0ab51303/)
+
 
 <br>
 
