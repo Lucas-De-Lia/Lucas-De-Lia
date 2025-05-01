@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Lucas De Lia</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>, I'm Lucas De Lia</h1></summary>
   </ul>
 </div>
 
