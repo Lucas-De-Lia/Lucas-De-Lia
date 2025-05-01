@@ -70,10 +70,6 @@ I am a Systems engineering student, currently halfway through my degree. I am ex
 
 ## GitHub Stats 📈 :
 
-<br>
-
-## GitHub Stats 📈 :
-
 <table>
   <tr>
     <td>
