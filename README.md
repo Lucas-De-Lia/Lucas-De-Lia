@@ -72,9 +72,24 @@ I am a Systems engineering student, currently halfway through my degree. I am ex
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucas-De-Lia&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-[![Lucas-De-Lia GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-De-Lia&theme=algolia)](https://github.com/Lucas-De-Lia/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-De-Lia&theme=algolia)](https://github.com/Lucas-De-Lia/github-readme-stats)
+## GitHub Stats 📈 :
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Lucas-De-Lia&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lucas-De-Lia&theme=algolia" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-De-Lia&theme=algolia" />
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
