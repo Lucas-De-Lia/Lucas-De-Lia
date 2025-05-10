@@ -20,7 +20,7 @@ I am a Systems engineering student, currently halfway through my degree. I am ex
 
 - 🔗 Connect with me on <a href = "https://www.linkedin.com/in/lucas-de-lia-a0ab51303/" > LinkedIn <a/>
 - 📫 Reach out to me at: <a href="lucasdelia018@gmail.com">lucasdelia018@gmail.com</a>
-- 📄 Check out my <a href = "https://drive.google.com/file/d/1J2fwBp7u6VrwaksMe281rU28q767OB3U/view?usp=drive_link" > CV <a/>
+- 📄 Check out my <a href = "https://drive.google.com/file/d/1aXoprd-IJfAi6SMn7iYFlfJci3u23pTp/view?usp=sharingk" > CV <a/>
 - 🌱 I’m currently learning ...
   - Express js
   - SpringBoot
